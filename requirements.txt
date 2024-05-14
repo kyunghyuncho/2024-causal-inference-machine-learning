@@ -1,0 +1,4 @@
+statsmodels>=0.14.2
+seaborn>=0.13.2
+linearmodels>=6.0
+arviz>=0.18.0
