@@ -1,0 +1,13 @@
+diff --git a/ci/src/ci/util.py b/ci/src/ci/util.py
+index 5f31835..eb6ee1f 100644
+--- a/ci/src/ci/util.py
++++ b/ci/src/ci/util.py
+@@ -14,7 +14,7 @@ from ci.rct_example.online_classroom import OnlineClassRoom
+ 
+ def get_dataset(name: str) -> DF:
+     #'online_classroom' in name:
+-    return OnlineClassRoom(pd.read_csv(f"../data/{name}.csv"))
++    return OnlineClassRoom(pd.read_csv(f"/teamspace/studios/this_studio/2024-causal-inference-machine-learning/Causal-Inference-Tutorial/ci/data/{name}.csv"))
+ 
+ 
+ MEAN = 0
