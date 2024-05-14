@@ -1,0 +1,10 @@
+Lab 1: structural causal models and conditional distributions by Taro Makino
+Lab 2: the difference between conditional and interventional distributions by Taro Makino
+Lab 3: randomized controlled trials by Daniel Im
+Lab 4: outcome maximization by Daniel Im
+Lab 5: matching and inverse probability weighting by Daniel Im
+Lab 6: instrument variables and two-stage linear regression by Divyam Madaan
+Lab 7: a tutorial on Numpyro by Divyam Madaan
+Lab 8: double machine learning by Divyam Madaan
+Lab 9: the principle of invariance by Taro Makino
+Lab 10: colliders and the phenomenon of explaining away by Divyam Madaan
