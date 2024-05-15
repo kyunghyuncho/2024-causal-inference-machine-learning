@@ -17,5 +17,5 @@ The lecture note can be found [here](https://arxiv.org/abs/2405.08793), and this
 - Lab 9: the principle of invariance by Taro Makino
 - Lab 10: colliders and the phenomenon of explaining away by Divyam Madaan
 
-These labs were run over Google Colab originally, but in order to ensure the reproducibility and to improve the usability, this lab materials are provided as a lightning studio at [TBA](TBA). I recommend you to use the lightning studio to try out these lab sessions yourselves.
+These labs were run over Google Colab originally, but in order to ensure the reproducibility and to improve the usability, this lab materials are provided as a [lightning studio](https://lightning.ai/kc119/studios/causal-inference-in-machine-learning-a-course-material-at-new-york-university). I recommend you to use the lightning studio to try out these lab sessions yourselves.
 
