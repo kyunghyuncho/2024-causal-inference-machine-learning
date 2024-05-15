@@ -4,7 +4,7 @@ This repository contains lab materials from the course "Introduction to Causal I
 
 The course was taught by [Kyunghyun Cho](https://kyunghyuncho.me/), and the lab sessions were prepared and led by three PhD students; [Taro Makino](https://taromakino.github.io/), [Daniel Jiwoong Im](https://jiwoongim.github.io/research.html) and [Divyam Madaan](https://dmadaan.com/). 
 
-The lecture note can be found at [TBA](TBA), and this repository contains the following lab materials:
+The lecture note can be found [here](https://arxiv.org/abs/2405.08793), and this repository contains the following lab materials:
 
 - Lab 1: structural causal models and conditional distributions by Taro Makino
 - Lab 2: the difference between conditional and interventional distributions by Taro Makino
